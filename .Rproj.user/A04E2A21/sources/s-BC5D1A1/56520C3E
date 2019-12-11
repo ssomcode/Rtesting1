@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576067240227.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "159918267",
+    "id" : "56520C3E",
+    "lastKnownWriteTime" : 1576067274,
+    "last_content_update" : 1576067274676,
+    "path" : "D:/R datascience/testing1/file1.R",
+    "project_path" : "file1.R",
+    "properties" : {
+        "cursorPosition" : "0,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
